@@ -1,0 +1,276 @@
+accession	classification	samplingFrame	paper	length
+AY184220	Sabin2	Sabin 2	Mutations in Sabin 2 strain of poliovirus and stability ofattenuation phenotype 	747
+JX275140	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275032	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275071	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+DQ890386	VDPV	AFP	Isolation of recombinant type 2 vaccine-derived poliovirus (VDPV)from a Nigerian child 	746
+AF448783	cVDPV	AFP	Circulation of endemic type 2 vaccine-derived poliovirus in Egyptfrom 1983 to 1993 	740
+KX162714	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	746
+KF322158	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF322157	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+AY948201	VDPV	AFP	Characterization of a rare natural intertypic type 2/type 3 penta-recombinant vaccine-derived poliovirus isolated from a childwith acute flaccid paralysis 	747
+L76412	wild	AFP	Genetic diversity and rapid evolution of poliovirus in human hosts	746
+KX162716	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	747
+KX162707	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	747
+KX162690	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	741
+KX162686	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	741
+KX162685	SabinLike	AFP	High-Throughput Next Generation Sequencing of Polioviruses	741
+KU372652	VDPV	environmental	Molecular and Phenotypic Characterization of a Highly Evolved Type 2 Vaccine-Derived Poliovirus Isolated from Seawater in Brazil, 2014	735
+KM433732	SabinLike	AFP-CSF	Complete genome sequence analysis of a poliovirus type 2 strainisolated in Yunnan, China, in 2013 	747
+KR259357	VDPV	AFP	Vaccine-Derived Polioviruses Not Detected by Global SurveillanceScreening Assay 	747
+KR259356	VDPV	AFP	Vaccine-Derived Polioviruses Not Detected by Global SurveillanceScreening Assay 	747
+KP196613	VDPV	AFP	The Genetic Character Analysis of Type 2 Vaccine-derived Poliovirusin Shanxi Province in 2014 	747
+KJ419277	cVDPV	healthy	Limited and localized outbreak of newly emergent type 2vaccine-derived poliovirus in sichuan, china 	747
+KJ419276	cVDPV	AFP	Limited and localized outbreak of newly emergent type 2vaccine-derived poliovirus in sichuan, china 	747
+KJ419275	cVDPV	AFP	Limited and localized outbreak of newly emergent type 2vaccine-derived poliovirus in sichuan, china 	747
+KJ419274	cVDPV	AFP	Limited and localized outbreak of newly emergent type 2vaccine-derived poliovirus in sichuan, china 	747
+KJ419273	cVDPV	AFP	Limited and localized outbreak of newly emergent type 2vaccine-derived poliovirus in sichuan, china 	747
+KF322156	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF322155	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF322154	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF322153	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF322152	cVDPV	AFP	Evolution and Circulation of Type-2 Vaccine-Derived Polioviruses inNad Ali District of Southern Afghanistan during June 2009-February 2011 	747
+KF656732	VDPV	environmental	Isolation and Characterization of a Type 2 Vaccine-DerivedPoliovirus from Environmental Surveillance in China, 2012 	747
+JX275380	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275352	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275266	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275238	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275184	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275147	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275085	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275015	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX275008	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	743
+JX274999	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	743
+JX274993	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274991	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274987	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274984	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274983	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274982	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274981	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+JX274980	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	747
+AY278552	VDPV	healthy	Retrospective analysis of a local cessation of vaccination againstpoliomyelitis: a possible scenario for the future 	747
+AY278551	VDPV	AFP	Retrospective analysis of a local cessation of vaccination againstpoliomyelitis: a possible scenario for the future 	747
+AY278550	VDPV	healthy	Retrospective analysis of a local cessation of vaccination againstpoliomyelitis: a possible scenario for the future 	747
+AY278549	VDPV	healthy	Retrospective analysis of a local cessation of vaccination againstpoliomyelitis: a possible scenario for the future 	747
+GU390707	iVDPV	AFP	Brief Report: Neuroinvasive Immunodeficiency-Associated Vaccine-Derived Poliomyelitis Thirteen Years after Infection -Minnesota, 2008 	747
+HM107835	SabinLike	AFP	Type 2 vaccine-derived poliovirus from patients with acute flaccidparalysis in china: current immunization strategy effectively prevented its sustained transmission 	747
+HM107834	VDPV	AFP	Type 2 vaccine-derived poliovirus from patients with acute flaccidparalysis in china: current immunization strategy effectively prevented its sustained transmission 	747
+HM107833	VDPV	AFP	Type 2 vaccine-derived poliovirus from patients with acute flaccidparalysis in china: current immunization strategy effectively prevented its sustained transmission 	747
+HM107832	VDPV	AFP	Type 2 vaccine-derived poliovirus from patients with acute flaccidparalysis in china: current immunization strategy effectively prevented its sustained transmission 	747
+AY177685	iVDPV	AFP	Nucleotide variation in Sabin type 2 poliovirus from animmunodeficient patient with poliomyelitis 	747
+FJ460225	VDPV	healthy	Comparison of poliovirus recombinants: accumulation of pointmutations provides further advantages 	747
+FJ460223	VDPV	healthy	Comparison of poliovirus recombinants: accumulation of pointmutations provides further advantages 	747
+DQ890388	VDPV	AFP	Isolation of recombinant type 2 vaccine-derived poliovirus (VDPV)from a Nigerian child 	747
+DQ890387	VDPV	AFP	Isolation of recombinant type 2 vaccine-derived poliovirus (VDPV)from a Nigerian child 	747
+DQ890385	VDPV	AFP	Isolation of recombinant type 2 vaccine-derived poliovirus (VDPV)from a Nigerian child 	747
+AF448782	cVDPV	AFP	Circulation of endemic type 2 vaccine-derived poliovirus in Egyptfrom 1983 to 1993 	742
+FJ898290	VDPV	AFP	A Sabin 2-related poliovirus recombinant contains a homologous sequence of human enterovirus species C in the viral polymerasecoding region 	747
+DQ205099	engineered	engineered	Modulation of Poliovirus Replicative Fitness in HeLa Cells byDeoptimization of Synonymous Codon Usage in the Capsid Region	747
+AY238473	MEF1	MEF1	Evaluation of immunogenicity and protective properties of inactivated poliovirus vaccines: a new surrogate method forpredicting vaccine efficacy 	742
+AM084225	cVDPV	AFP	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	747
+AM084224	cVDPV	AFP	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	747
+AM084223	cVDPV	AFP	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	747
+AM884185	cVDPV	healthy	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	747
+AM884184	cVDPV	healthy	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	747
+AJ544513	iVDPV	healthy	Characterisation of a type 2 poliovirus strain from long-termexcretor with CVID immunodeficiency 	747
+CS406483	engineered	engineered	Modulation of replicative fitness by using less frequently usedsynonymous codons 	742
+CS406482	engineered	engineered	Modulation of replicative fitness by using less frequently usedsynonymous codons 	742
+M12197	Lansing	Lansing	Mapping of sequences required for mouse neurovirulence ofpoliovirus type 2 Lansing 	742
+GU256636	VDPV	AFP	Growth kinetic analysis of bi-recombinant poliovirus vaccinestrains 	747
+EU566950	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566949	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566948	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566947	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566946	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566945	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566944	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566943	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566942	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566941	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566940	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566939	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566938	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566937	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566936	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566935	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+EU566934	iVDPV	AFP	Paralysis Associated and Contact Spreading of an ImportedRecombinant Vaccine Derived Poliovirus in Spain 	746
+JX274995	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	743
+L76407	wild	AFP	Genetic variation in vivo and proposed functional domains of the 5'noncoding region of poliovirus RNA 	733
+KC784368	VDPV	environmental	Highly Divergent Types 2 and 3 Vaccine-Derived PoliovirusesIsolated from Sewage in Tallinn, Estonia 	743
+L76413	wild	AFP	Genetic variation in vivo and proposed functional domains of the 5'noncoding region of poliovirus RNA 	740
+L76411	wild	AFP	Genetic variation in vivo and proposed functional domains of the 5'noncoding region of poliovirus RNA 	737
+L76410	wild	AFP	Genetic variation in vivo and proposed functional domains of the 5'noncoding region of poliovirus RNA 	741
+L76402	wild	AFP	Genetic diversity and rapid evolution of poliovirus in human hosts	738
+L76403	wild	AFP	Genetic diversity and rapid evolution of poliovirus in human hosts	727
+JX274985	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	737
+KC784367	VDPV	environmental	Highly Divergent Types 2 and 3 Vaccine-Derived PoliovirusesIsolated from Sewage in Tallinn, Estonia 	739
+KX162687	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	732
+KX162678	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	732
+KX162713	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	735
+FJ460224	VDPV	healthy	Comparison of poliovirus recombinants: accumulation of pointmutations provides further advantages 	735
+JX275162	cVDPV	AFP	Multiple Independent Emergences of Type 2 Vaccine-DerivedPolioviruses during a Large Outbreak in Northern Nigeria 	726
+KX162715	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	725
+KX162703	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	723
+KX162701	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	720
+KX162699	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	726
+KX162697	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	730
+KX162712	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	726
+KX162700	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	719
+KX162688	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	721
+KU598891	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598890	VDPV	healthy	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598889	VDPV	healthy	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598888	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598887	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598886	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598885	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598884	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+KU598883	VDPV	AFP	A cluster of paralytic poliomyelitis cases due to transmission ofslightly diverged Sabin-2 vaccine virus 	727
+FJ517649	VDPV	AFP	Evolution of the Sabin vaccine into pathogenic derivatives withoutappreciable changes in antigenic properties: need for improvement of current poliovirus surveillance 	727
+FJ517648	VDPV	AFP	Evolution of the Sabin vaccine into pathogenic derivatives withoutappreciable changes in antigenic properties: need for improvement of current poliovirus surveillance 	727
+KX162698	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	723
+KX162704	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	720
+KX162705	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	715
+KX162702	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	716
+KX162696	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	713
+KJ170575	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170574	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170573	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170572	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170571	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170570	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170569	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170568	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170567	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170566	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170565	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170564	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170563	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170562	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170561	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170560	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170559	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170558	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170557	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170556	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170555	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170554	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170553	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170552	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170551	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170550	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170549	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170548	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170547	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170546	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170545	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170544	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170543	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170542	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170541	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170540	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170539	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170538	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170537	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170536	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170535	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170534	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+KJ170533	SabinLike	AFP	Sabin Vaccine Reversion in the Field: a Comprehensive Analysis ofSabin-Like Poliovirus Isolates in Nigeria 	718
+L76393	wild	AFP	Genetic diversity and rapid evolution of poliovirus in human hosts	709
+HF913428	VDPV	healthy	Reemergence of Recombinant Vaccine-derived Polioviruses in HealthyChildren, Madagascar 	712
+HF913427	VDPV	healthy	Reemergence of Recombinant Vaccine-derived Polioviruses in HealthyChildren, Madagascar 	707
+HF913426	VDPV	healthy	Reemergence of Recombinant Vaccine-derived Polioviruses in HealthyChildren, Madagascar 	707
+AJ295189	SabinLike	unknown	Molecular identification and typing of enteroviruses isolated fromclinical specimens 	708
+KX162717	SabinLike	AFP	High-Throughput Next Generation Sequencing of Polioviruses	706
+KX162689	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	699
+KX162710	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	697
+KX162711	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	685
+AM040039	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	651
+AM040038	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	651
+AM040037	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	651
+AM040036	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	651
+AM040035	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	651
+AM056050	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	565
+AM056049	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	565
+AM292221	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	564
+AM292220	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	564
+AM292219	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	564
+KX162706	cVDPV	AFP	High-Throughput Next Generation Sequencing of Polioviruses	543
+AM158276	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	552
+AM158275	VDPV	environmental	Neurovirulent vaccine-derived polioviruses in sewage from highlyimmune populations 	552
+EU004575	cVDPV	healthy	Molecular analysis and implications of neurovirulent circulating vaccine-derived poliovirus in Jamaica. A case report and review ofliterature 	461
+DQ792913	VDPV	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	426
+AJ783733	SabinLike	environmental	Prevalence of vaccine-derived polioviruses in sewage and riverwater in South Africa 	422
+EU598465	VDPV	unknown	Determination of the role of mutations and recombination in growthrates of Poliovirus vaccine strains 	416
+DQ792921	VDPV	AFP	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	416
+DQ792917	VDPV	AFP	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	416
+FJ609757	VDPV	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	416
+EU598464	VDPV	unknown	Determination of the role of mutations and recombination in growthrates of Poliovirus vaccine strains 	414
+DQ792915	VDPV	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	414
+DQ792916	SabinLike	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	413
+DQ792920	SabinLike	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	408
+FJ609758	SabinLike	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	408
+FJ609752	VDPV	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	407
+DQ792918	VDPV	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	406
+FJ609756	VDPV	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	406
+DQ792919	SabinLike	AFP	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	405
+FJ609750	SabinLike	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	402
+AJ783720	SabinLike	environmental	Prevalence of vaccine-derived polioviruses in sewage and riverwater in South Africa 	402
+KJ852630	SabinLike	environmental	Sporadic Isolation of Sabin-Like Polioviruses and High-Level Detection of Non-Polio Enteroviruses during Sewage Surveillance in Seven Italian Cities, after Several Years of Inactivated PoliovirusVaccination 	397
+KJ852629	SabinLike	environmental	Sporadic Isolation of Sabin-Like Polioviruses and High-Level Detection of Non-Polio Enteroviruses during Sewage Surveillance in Seven Italian Cities, after Several Years of Inactivated PoliovirusVaccination 	397
+AJ783734	SabinLike	environmental	Prevalence of vaccine-derived polioviruses in sewage and riverwater in South Africa 	390
+DQ792922	VDPV	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	383
+DQ792923	VDPV	healthy	Use of mutational pattern in 5'-NCR and VP1 regions of poliovirusesfor molecular diagnosis 	383
+FJ609759	VDPV	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	382
+AJ783782	iVDPV	unknown	Genomic mutations in oral poliovirus vaccine strains:Implicationsfor the eradication of poliovirus 	380
+EU598475	SabinLike	unknown	Determination of the role of mutations and recombination in growthrates of Poliovirus vaccine strains 	376
+AJ783737	SabinLike	environmental	Prevalence of vaccine-derived polioviruses in sewage and riverwater in South Africa 	376
+FJ609751	VDPV	unknown	Study of antigenic evolution of vaccine poliovirus strains and determination of their immunological properties in Greek population	368
+AM774328	cVDPV	healthy	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	368
+AM774327	cVDPV	healthy	Co-circulation and evolution of polioviruses and species Centeroviruses in a district of Madagascar 	368
+AY056686	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056685	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056684	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056681	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056670	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056669	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056668	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056667	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056666	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056665	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056664	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056663	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056662	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056661	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056660	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056659	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056657	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056656	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056655	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056654	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056653	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056652	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056651	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056650	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056638	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056637	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056636	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056635	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056634	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056633	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056632	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056631	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056630	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056629	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056628	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056627	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056626	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056625	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056624	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056623	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056621	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	360
+AY056658	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	359
+AY056620	wild	AFP	Investigation of the presence of recombinant polioviruses in thehit population in Albania during the 1996 outbreak 	359
+AJ783735	VDPV	environmental	Prevalence of vaccine-derived polioviruses in sewage and riverwater in South Africa 	296
+JX179283	SabinLike	healthy	Nearly constant shedding of diverse enteric viruses by two healthyinfants 	278
