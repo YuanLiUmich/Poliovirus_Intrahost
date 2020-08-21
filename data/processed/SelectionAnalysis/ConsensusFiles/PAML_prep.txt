@@ -1,0 +1,24 @@
+Path to PAML: ../../paml4.8/bin/codeml codeml.ctl
+
+Path to files used for dN/dS analysis: data/processed/SelectionAnalysis/ConsensusFiles
+
+# get only the bio-id, if it is first, then align, then add extra space:
+
+cat MatlabBioSampleConsensus_Coding_mOPV2.fasta | sed 's/\(P.........\).*/\1/g' > polyprotein.fasta
+muscle -in polyprotein.fasta -physout polyprotein.phylip
+cat polyprotein.phylip | sed 's/P........./&\n/g' > polyprotein.space.phylip
+
+Gene-wise dN/dS:
+
+Polyprotein:
+VP4: 0.26326
+VP2: 0.05951
+VP3: 0.44309
+VP1: 1.20709
+2A:  0.25478
+2B:  0.00010
+2C:  0.05137
+3A:  0.09244
+3B:  0.00010
+3C:  0.10622
+3D:  0.04747
