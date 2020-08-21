@@ -1,0 +1,3 @@
+# make removed_duplicates/IDs.txt
+bash run_cap.sh
+parallel samtools index ::: *.bam # do for each directory
